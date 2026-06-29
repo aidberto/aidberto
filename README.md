@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="center">I'm a CS student, making personal projects and websites for clients while I study. Check out some of my work at https://berto.works :)</p>
+<p data-importer="text" align="center">I'm a CS student, making personal projects and websites for clients while I study. Check out some of my work at https://berto.works</p>
 
 ###
 
