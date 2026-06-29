@@ -32,8 +32,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=aidenberto&count={count})
-
-###
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=aidenberto&count={10})
